@@ -14,7 +14,9 @@ namespace poo
             Console.WriteLine(miCirculo.Area(5));
 
             Circulo miCirculo2 = new Circulo();
-            Console.WriteLine(miCirculo2.Area(7));
+            Console.WriteLine("Introducir un valor entero de radio: ");
+            int radio = int.Parse(Console.ReadLine());
+            Console.WriteLine(miCirculo2.Area(radio));
         }
     }
 
