@@ -22,11 +22,11 @@ namespace poo
 
     class Circulo
     {
-        const double PI = 3.1416;     //Las variables son propiedades de la Clase
+        const double PI = Math.PI;     //Las variables son propiedades de la Clase
         //Campos de clase cuando están definidas dentro de una clase
 
         public double Area(int radio){     //Método de Clase. Qué hace el objeto Circulo? (Comportamientos)
-            return PI * radio * radio;
+            return PI * (Math.Pow(radio,2));
         }
     }
 }

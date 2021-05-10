@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\feder\\Desktop\\C#\\POO\\poo\\poo.csproj": {}
+    "C:\\Users\\feder\\Desktop\\Programación\\GitHub\\Proyectos PortafolioCV\\POO.CS\\poo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\feder\\Desktop\\C#\\POO\\poo\\poo.csproj": {
+    "C:\\Users\\feder\\Desktop\\Programación\\GitHub\\Proyectos PortafolioCV\\POO.CS\\poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\feder\\Desktop\\C#\\POO\\poo\\poo.csproj",
+        "projectUniqueName": "C:\\Users\\feder\\Desktop\\Programación\\GitHub\\Proyectos PortafolioCV\\POO.CS\\poo.csproj",
         "projectName": "poo",
-        "projectPath": "C:\\Users\\feder\\Desktop\\C#\\POO\\poo\\poo.csproj",
+        "projectPath": "C:\\Users\\feder\\Desktop\\Programación\\GitHub\\Proyectos PortafolioCV\\POO.CS\\poo.csproj",
         "packagesPath": "C:\\Users\\feder\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\feder\\Desktop\\C#\\POO\\poo\\obj\\",
+        "outputPath": "C:\\Users\\feder\\Desktop\\Programación\\GitHub\\Proyectos PortafolioCV\\POO.CS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\feder\\AppData\\Roaming\\NuGet\\NuGet.Config"
